@@ -1,0 +1,12 @@
+C:\Users\Georg\Desktop\School\Year 1\Semester 1\PROG\Visual Basic Saves\PinkGeorgeFinal\PinkGeorgeFinal\obj\Debug\PinkGeorgeFinal.vbprojAssemblyReference.cache
+C:\Users\Georg\Desktop\School\Year 1\Semester 1\PROG\Visual Basic Saves\PinkGeorgeFinal\PinkGeorgeFinal\obj\Debug\PinkGeorgeFinal.Form1.resources
+C:\Users\Georg\Desktop\School\Year 1\Semester 1\PROG\Visual Basic Saves\PinkGeorgeFinal\PinkGeorgeFinal\obj\Debug\PinkGeorgeFinal.Resources.resources
+C:\Users\Georg\Desktop\School\Year 1\Semester 1\PROG\Visual Basic Saves\PinkGeorgeFinal\PinkGeorgeFinal\obj\Debug\PinkGeorgeFinal.vbproj.GenerateResource.cache
+C:\Users\Georg\Desktop\School\Year 1\Semester 1\PROG\Visual Basic Saves\PinkGeorgeFinal\PinkGeorgeFinal\obj\Debug\PinkGeorgeFinal.vbproj.CoreCompileInputs.cache
+C:\Users\Georg\Desktop\School\Year 1\Semester 1\PROG\Visual Basic Saves\PinkGeorgeFinal\PinkGeorgeFinal\bin\Debug\PinkGeorgeFinal.exe.config
+C:\Users\Georg\Desktop\School\Year 1\Semester 1\PROG\Visual Basic Saves\PinkGeorgeFinal\PinkGeorgeFinal\bin\Debug\PinkGeorgeFinal.exe
+C:\Users\Georg\Desktop\School\Year 1\Semester 1\PROG\Visual Basic Saves\PinkGeorgeFinal\PinkGeorgeFinal\bin\Debug\PinkGeorgeFinal.pdb
+C:\Users\Georg\Desktop\School\Year 1\Semester 1\PROG\Visual Basic Saves\PinkGeorgeFinal\PinkGeorgeFinal\bin\Debug\PinkGeorgeFinal.xml
+C:\Users\Georg\Desktop\School\Year 1\Semester 1\PROG\Visual Basic Saves\PinkGeorgeFinal\PinkGeorgeFinal\obj\Debug\PinkGeorgeFinal.exe
+C:\Users\Georg\Desktop\School\Year 1\Semester 1\PROG\Visual Basic Saves\PinkGeorgeFinal\PinkGeorgeFinal\obj\Debug\PinkGeorgeFinal.xml
+C:\Users\Georg\Desktop\School\Year 1\Semester 1\PROG\Visual Basic Saves\PinkGeorgeFinal\PinkGeorgeFinal\obj\Debug\PinkGeorgeFinal.pdb
